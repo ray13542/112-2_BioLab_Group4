@@ -1,6 +1,6 @@
 
 This project is our final project for the course of  "Biomedical Engineering Lab" in 112-2.
-Our objective is to design a system that can collect electromyography signals in real-time, evaluate respiratory conditions by an machine learning model, and display them on a monitoring screen.
+Our objective is to design a system that can collect electromyography signals in real-time, evaluate respiratory conditions by a machine learning model, and display them on a monitoring screen.
 
 ## Source Code
 1. Data.py
